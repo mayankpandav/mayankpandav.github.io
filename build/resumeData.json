@@ -1,0 +1,229 @@
+{
+  "main": {
+    "name": "Mayank Pandav",
+    "occupation": "Full stack javascript developer",
+    "description": "Full Stack  Developer by Day, Founder && Freelancer by Night. ",
+    "image": "IG_Mayank.jpeg",
+    "bio": "My name is Mayank, I'm Fullstack javascript  developer using different kind of technologies. i have expertise on React js, Node Js, Typescript, React native, Graphql, Relay js ,Socket IO ",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "mpandav1998@gmail.com",
+    "phone": "+91 9726491167",
+    "address": {
+      "street": "E-29 Jayant Park",
+      "city": "Ahemedabad",
+      "state": "India",
+      "zip": "380052"
+    },
+    
+    "resumedownload": "resume.pdf",
+    "social": [
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mayankpandav",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/i.m.mynk/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mayankpandav",
+        "className": "fa fa-github"
+      } ,{
+        "name": "Facebook",
+        "url": "https://www.facebook.com/mayank.pandav.58/",
+        "className": "fa fa-facebook"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "GEC Rajkot",
+        "degree": "Bachelor Degree in Computer Science",
+        "graduated": "May 2019",
+        "description": "Completed with a cumulative GPA of 7.7"
+      }
+    ],
+    "work": [
+   
+      {
+        "company": "Community Curated Growth Hacks (CCGH)",
+        "title": "Co-Founder",
+        "years": "Present",
+        "description": "Managing Product and provide cutting edge solution"
+      },
+      {
+        "company": "Flatmatch",
+        "title": "Official Translator",
+        "years": "Present",
+        "description": "Managing Product and provide cutting edge solution"
+      },
+      
+      {
+        "company": "Freelancer- Fiverr/Upwork",
+        "title": "Senior Fullstack Javascript developer",
+        "years": "Dec 2017 - Present",
+        "description": "Working in Nodejs and Managing React and React Native Projects"
+      },
+      {
+        "company": "Zujo Tech Pvt Ltd",
+        "title": "Fullstack developer",
+        "years": "Jan 2018 - May 2020",
+        "description": "Learning Node js and React Js"
+      },
+      {
+        "company": "sensussoft technology",
+        "title": "PHP trainee",
+        "years": "Jan 2017 - jan 2018",
+        "description": "Internship"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Mobility using React Native",
+        "level": "100%"
+      },
+      {
+        "name": "Typescript",
+        "level": "100%"
+      },
+      {
+        "name": "Graphql",
+        "level": "100%"
+      },
+      {
+        "name": "Relay JS",
+        "level": "100%"
+      },
+      {
+        "name": "Redux",
+        "level": "90%"
+      },
+      {
+        "name": "Recoil Js",
+        "level": "100%"
+      },
+      {
+        "name": "HLS Video  streaming",
+        "level": "90%"
+      },
+       {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "AWS",
+        "level": "95%"
+      },
+      {
+        "name": "Socket IO",
+        "level": "100%"
+      },
+      {
+        "name": "Golang",
+        "level": "80%"
+      },
+      
+      {
+        "name": "Mysql",
+        "level": "80%"
+      },
+      {
+        "name": "DynamoDb",
+        "level": "95%"
+      },
+    
+      {
+        "name": "MongoDB",
+        "level": "100%"
+      }
+    ]
+  },
+  "npm":{
+    "package":[
+      {
+        "title":"react native image placeholder",
+        "description":"The image component that supports shows placeholderSource when load image network.",
+        "link":"https://www.npmjs.com/package/react-native-img-placeholder"
+      },
+      {
+        "title":"react native text thumbnail",
+        "description":"Add text of two characte while we dont have image of user",
+        "link":"https://www.npmjs.com/package/react-native-text-thumbnail"
+      },
+      {
+        "title":"lazyload image for react js",
+        "description":"Lazyload image Library Create Lazyload Gallary with loadlazy",
+        "link":"npmjs.com/package/loadlazy"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack Task Management",
+        "category": "Task Control built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "taskcontrol.png",
+        "url": "https://taskcontrol.vercel.app"
+      },
+      {
+        "title": "MERN Stack Court Case File",
+        "category": "Court Case filling built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "ecasex.png",
+        "url": "https://ecasex-jade.vercel.app/"
+      },
+      {
+        "title": "SheepMug Church Management App ",
+        "category": "Church Management React Native app and Web site Made in MERN",
+        "image": "SheepMug.png",
+        "url": "https://www.sheepmug.com/"
+      },
+      {
+        "title": "Ample.tv Video Streaming",
+        "category": "Youtube and Twitch Video streaming Website built with ReactJS And AWS lamda",
+        "image": "ample.png",
+        "url": "https://ample.tv/"
+      },
+      {
+        "title": "Fuuly School Management",
+        "category": "School Management and attendance system built with React Native",
+        "image": "fuuly.png",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mayank did an amazing job and delivered this much faster than expected! I would definitely hire him again for any programming job. He understood the requirements immediately and started to work on it right away. I would surely recommend him for any similar type of work.",
+        "user": "wesley   - Fiverr"
+      },
+      {
+        "text": "Great developer to work with. Very professional and time sensitive. I will keep working with him for long term!",
+        "user": "jinhromeo1  - Fiverr"
+      },
+      {
+        "text": "Mehul has successfully delivered an online store using ReactJs,MongoDb, and NodeJs. He was able to listen and apply any updates or changes to the website. I was happy working with him and I would definitely recommend him!",
+        "user": "Upwork Client"
+      },
+      {
+      "text":"great job. solid react native skills.",
+      "user":"hydrameet founder"
+      }
+      
+    ]
+  }
+}
