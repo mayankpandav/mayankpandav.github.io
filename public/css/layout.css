@@ -11,6 +11,7 @@
    c. About Section
    d. Resume Section
    e. Portfolio Section
+   new. NPM package
    f. Call To Action Section
    g. Testimonials Section
    h. Contact Section
@@ -566,6 +567,18 @@ ul#nav li.current a { color: #F06000; }
 }
 .popup-modal a:hover {	color: #00CCCC; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
+
+/**  npm package**/
+
+#npm {
+   background: #ebeeee;
+   padding-top: 90px;
+   padding-bottom: 60px;
+}
+#npm h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
 
 
 /* fadein/fadeout effect for modal popup

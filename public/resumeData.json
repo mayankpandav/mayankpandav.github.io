@@ -152,6 +152,25 @@
       }
     ]
   },
+  "npm":{
+    "package":[
+      {
+        "title":"react native image placeholder",
+        "description":"The image component that supports shows placeholderSource when load image network.",
+        "link":"https://www.npmjs.com/package/react-native-img-placeholder"
+      },
+      {
+        "title":"react native text thumbnail",
+        "description":"Add text of two characte while we dont have image of user",
+        "link":"https://www.npmjs.com/package/react-native-text-thumbnail"
+      },
+      {
+        "title":"lazyload image for react js",
+        "description":"Lazyload image Library Create Lazyload Gallary with loadlazy",
+        "link":"npmjs.com/package/loadlazy"
+      }
+    ]
+  },
   "portfolio": {
     "projects": [
       {
