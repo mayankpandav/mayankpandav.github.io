@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93d866582d1d71b8fb8373e3b5c6ba5d",
+    "revision": "a9a9de8ef1164e70dfb845aa5391f782",
     "url": "/mayankpandav.github.io/index.html"
   },
   {
-    "revision": "0cab39a6ce3a94db75ba",
+    "revision": "c498fe4660a91d96e783",
     "url": "/mayankpandav.github.io/static/css/main.5facb584.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mayankpandav.github.io/static/js/2.3ef2d018.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0cab39a6ce3a94db75ba",
-    "url": "/mayankpandav.github.io/static/js/main.91d775a9.chunk.js"
+    "revision": "c498fe4660a91d96e783",
+    "url": "/mayankpandav.github.io/static/js/main.2f446feb.chunk.js"
   },
   {
     "revision": "0c33d811ed5e54e907c8",
